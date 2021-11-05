@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"start": "node index"
+	},
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"ebay-node-api": "^2.9.0",
+		"express": "^4.17.1"
+	}
+}
